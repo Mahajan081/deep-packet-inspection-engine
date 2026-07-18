@@ -1,0 +1,25 @@
+# Compiled binaries
+   dpi_engine
+   dpi_simple
+   *.exe
+   *.out
+
+   # Object files
+   *.o
+   *.obj
+
+   # CMake build output
+   build/
+   CMakeFiles/
+   CMakeCache.txt
+   cmake_install.cmake
+   Makefile
+
+   # Generated test output
+   output.pcap
+
+   # OS/editor junk
+   .DS_Store
+   Thumbs.db
+   .vscode/
+   .idea/
